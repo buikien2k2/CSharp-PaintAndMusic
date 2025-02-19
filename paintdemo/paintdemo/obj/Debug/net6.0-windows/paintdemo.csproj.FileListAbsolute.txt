@@ -1,0 +1,107 @@
+D:\C#\paintdemo\paintdemo\bin\Debug\net6.0-windows\paintdemo.exe
+D:\C#\paintdemo\paintdemo\bin\Debug\net6.0-windows\paintdemo.deps.json
+D:\C#\paintdemo\paintdemo\bin\Debug\net6.0-windows\paintdemo.runtimeconfig.json
+D:\C#\paintdemo\paintdemo\bin\Debug\net6.0-windows\paintdemo.dll
+D:\C#\paintdemo\paintdemo\bin\Debug\net6.0-windows\paintdemo.pdb
+D:\C#\paintdemo\paintdemo\obj\Debug\net6.0-windows\paintdemo.csproj.AssemblyReference.cache
+D:\C#\paintdemo\paintdemo\obj\Debug\net6.0-windows\paintdemo.Form1.resources
+D:\C#\paintdemo\paintdemo\obj\Debug\net6.0-windows\paintdemo.csproj.GenerateResource.cache
+D:\C#\paintdemo\paintdemo\obj\Debug\net6.0-windows\paintdemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\paintdemo\paintdemo\obj\Debug\net6.0-windows\paintdemo.AssemblyInfoInputs.cache
+D:\C#\paintdemo\paintdemo\obj\Debug\net6.0-windows\paintdemo.AssemblyInfo.cs
+D:\C#\paintdemo\paintdemo\obj\Debug\net6.0-windows\paintdemo.csproj.CoreCompileInputs.cache
+D:\C#\paintdemo\paintdemo\obj\Debug\net6.0-windows\paintdemo.dll
+D:\C#\paintdemo\paintdemo\obj\Debug\net6.0-windows\refint\paintdemo.dll
+D:\C#\paintdemo\paintdemo\obj\Debug\net6.0-windows\paintdemo.pdb
+D:\C#\paintdemo\paintdemo\obj\Debug\net6.0-windows\paintdemo.genruntimeconfig.cache
+D:\C#\paintdemo\paintdemo\obj\Debug\net6.0-windows\ref\paintdemo.dll
+D:\C#\paintdemo\paintdemo\obj\Debug\net6.0-windows\paintdemo.Properties.Resources.resources
+C:\Users\Cyka\Desktop\paintdemo\paintdemo\bin\Debug\net6.0-windows\paintdemo.exe
+C:\Users\Cyka\Desktop\paintdemo\paintdemo\bin\Debug\net6.0-windows\paintdemo.deps.json
+C:\Users\Cyka\Desktop\paintdemo\paintdemo\bin\Debug\net6.0-windows\paintdemo.runtimeconfig.json
+C:\Users\Cyka\Desktop\paintdemo\paintdemo\bin\Debug\net6.0-windows\paintdemo.dll
+C:\Users\Cyka\Desktop\paintdemo\paintdemo\bin\Debug\net6.0-windows\paintdemo.pdb
+C:\Users\Cyka\Desktop\paintdemo\paintdemo\obj\Debug\net6.0-windows\paintdemo.csproj.AssemblyReference.cache
+C:\Users\Cyka\Desktop\paintdemo\paintdemo\obj\Debug\net6.0-windows\paintdemo.Form1.resources
+C:\Users\Cyka\Desktop\paintdemo\paintdemo\obj\Debug\net6.0-windows\paintdemo.Properties.Resources.resources
+C:\Users\Cyka\Desktop\paintdemo\paintdemo\obj\Debug\net6.0-windows\paintdemo.csproj.GenerateResource.cache
+C:\Users\Cyka\Desktop\paintdemo\paintdemo\obj\Debug\net6.0-windows\paintdemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cyka\Desktop\paintdemo\paintdemo\obj\Debug\net6.0-windows\paintdemo.AssemblyInfoInputs.cache
+C:\Users\Cyka\Desktop\paintdemo\paintdemo\obj\Debug\net6.0-windows\paintdemo.AssemblyInfo.cs
+C:\Users\Cyka\Desktop\paintdemo\paintdemo\obj\Debug\net6.0-windows\paintdemo.csproj.CoreCompileInputs.cache
+C:\Users\Cyka\Desktop\paintdemo\paintdemo\obj\Debug\net6.0-windows\paintdemo.dll
+C:\Users\Cyka\Desktop\paintdemo\paintdemo\obj\Debug\net6.0-windows\refint\paintdemo.dll
+C:\Users\Cyka\Desktop\paintdemo\paintdemo\obj\Debug\net6.0-windows\paintdemo.pdb
+C:\Users\Cyka\Desktop\paintdemo\paintdemo\obj\Debug\net6.0-windows\paintdemo.genruntimeconfig.cache
+C:\Users\Cyka\Desktop\paintdemo\paintdemo\obj\Debug\net6.0-windows\ref\paintdemo.dll
+C:\Users\Acer\OneDrive\Máy tính\New folder (2)\paintdemo (1)\paintdemo\bin\Debug\net6.0-windows\paintdemo.exe
+C:\Users\Acer\OneDrive\Máy tính\New folder (2)\paintdemo (1)\paintdemo\bin\Debug\net6.0-windows\paintdemo.deps.json
+C:\Users\Acer\OneDrive\Máy tính\New folder (2)\paintdemo (1)\paintdemo\bin\Debug\net6.0-windows\paintdemo.runtimeconfig.json
+C:\Users\Acer\OneDrive\Máy tính\New folder (2)\paintdemo (1)\paintdemo\bin\Debug\net6.0-windows\paintdemo.dll
+C:\Users\Acer\OneDrive\Máy tính\New folder (2)\paintdemo (1)\paintdemo\bin\Debug\net6.0-windows\paintdemo.pdb
+C:\Users\Acer\OneDrive\Máy tính\New folder (2)\paintdemo (1)\paintdemo\obj\Debug\net6.0-windows\paintdemo.csproj.AssemblyReference.cache
+C:\Users\Acer\OneDrive\Máy tính\New folder (2)\paintdemo (1)\paintdemo\obj\Debug\net6.0-windows\paintdemo.Form1.resources
+C:\Users\Acer\OneDrive\Máy tính\New folder (2)\paintdemo (1)\paintdemo\obj\Debug\net6.0-windows\paintdemo.Properties.Resources.resources
+C:\Users\Acer\OneDrive\Máy tính\New folder (2)\paintdemo (1)\paintdemo\obj\Debug\net6.0-windows\paintdemo.csproj.GenerateResource.cache
+C:\Users\Acer\OneDrive\Máy tính\New folder (2)\paintdemo (1)\paintdemo\obj\Debug\net6.0-windows\paintdemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\OneDrive\Máy tính\New folder (2)\paintdemo (1)\paintdemo\obj\Debug\net6.0-windows\paintdemo.AssemblyInfoInputs.cache
+C:\Users\Acer\OneDrive\Máy tính\New folder (2)\paintdemo (1)\paintdemo\obj\Debug\net6.0-windows\paintdemo.AssemblyInfo.cs
+C:\Users\Acer\OneDrive\Máy tính\New folder (2)\paintdemo (1)\paintdemo\obj\Debug\net6.0-windows\paintdemo.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive\Máy tính\New folder (2)\paintdemo (1)\paintdemo\obj\Debug\net6.0-windows\paintdemo.dll
+C:\Users\Acer\OneDrive\Máy tính\New folder (2)\paintdemo (1)\paintdemo\obj\Debug\net6.0-windows\refint\paintdemo.dll
+C:\Users\Acer\OneDrive\Máy tính\New folder (2)\paintdemo (1)\paintdemo\obj\Debug\net6.0-windows\paintdemo.pdb
+C:\Users\Acer\OneDrive\Máy tính\New folder (2)\paintdemo (1)\paintdemo\obj\Debug\net6.0-windows\paintdemo.genruntimeconfig.cache
+C:\Users\Acer\OneDrive\Máy tính\New folder (2)\paintdemo (1)\paintdemo\obj\Debug\net6.0-windows\ref\paintdemo.dll
+C:\Users\Cyka\Desktop\paintdemo (1)\paintdemo\bin\Debug\net6.0-windows\paintdemo.exe
+C:\Users\Cyka\Desktop\paintdemo (1)\paintdemo\bin\Debug\net6.0-windows\paintdemo.deps.json
+C:\Users\Cyka\Desktop\paintdemo (1)\paintdemo\bin\Debug\net6.0-windows\paintdemo.runtimeconfig.json
+C:\Users\Cyka\Desktop\paintdemo (1)\paintdemo\bin\Debug\net6.0-windows\paintdemo.dll
+C:\Users\Cyka\Desktop\paintdemo (1)\paintdemo\bin\Debug\net6.0-windows\paintdemo.pdb
+C:\Users\Cyka\Desktop\paintdemo (1)\paintdemo\obj\Debug\net6.0-windows\paintdemo.csproj.AssemblyReference.cache
+C:\Users\Cyka\Desktop\paintdemo (1)\paintdemo\obj\Debug\net6.0-windows\paintdemo.Form1.resources
+C:\Users\Cyka\Desktop\paintdemo (1)\paintdemo\obj\Debug\net6.0-windows\paintdemo.Properties.Resources.resources
+C:\Users\Cyka\Desktop\paintdemo (1)\paintdemo\obj\Debug\net6.0-windows\paintdemo.csproj.GenerateResource.cache
+C:\Users\Cyka\Desktop\paintdemo (1)\paintdemo\obj\Debug\net6.0-windows\paintdemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cyka\Desktop\paintdemo (1)\paintdemo\obj\Debug\net6.0-windows\paintdemo.AssemblyInfoInputs.cache
+C:\Users\Cyka\Desktop\paintdemo (1)\paintdemo\obj\Debug\net6.0-windows\paintdemo.AssemblyInfo.cs
+C:\Users\Cyka\Desktop\paintdemo (1)\paintdemo\obj\Debug\net6.0-windows\paintdemo.csproj.CoreCompileInputs.cache
+C:\Users\Cyka\Desktop\paintdemo (1)\paintdemo\obj\Debug\net6.0-windows\paintdemo.dll
+C:\Users\Cyka\Desktop\paintdemo (1)\paintdemo\obj\Debug\net6.0-windows\refint\paintdemo.dll
+C:\Users\Cyka\Desktop\paintdemo (1)\paintdemo\obj\Debug\net6.0-windows\paintdemo.pdb
+C:\Users\Cyka\Desktop\paintdemo (1)\paintdemo\obj\Debug\net6.0-windows\paintdemo.genruntimeconfig.cache
+C:\Users\Cyka\Desktop\paintdemo (1)\paintdemo\obj\Debug\net6.0-windows\ref\paintdemo.dll
+C:\Users\Acer\OneDrive\Máy tính\paintdemo (1)\paintdemo\bin\Debug\net6.0-windows\paintdemo.exe
+C:\Users\Acer\OneDrive\Máy tính\paintdemo (1)\paintdemo\bin\Debug\net6.0-windows\paintdemo.deps.json
+C:\Users\Acer\OneDrive\Máy tính\paintdemo (1)\paintdemo\bin\Debug\net6.0-windows\paintdemo.runtimeconfig.json
+C:\Users\Acer\OneDrive\Máy tính\paintdemo (1)\paintdemo\bin\Debug\net6.0-windows\paintdemo.dll
+C:\Users\Acer\OneDrive\Máy tính\paintdemo (1)\paintdemo\bin\Debug\net6.0-windows\paintdemo.pdb
+C:\Users\Acer\OneDrive\Máy tính\paintdemo (1)\paintdemo\obj\Debug\net6.0-windows\paintdemo.csproj.AssemblyReference.cache
+C:\Users\Acer\OneDrive\Máy tính\paintdemo (1)\paintdemo\obj\Debug\net6.0-windows\paintdemo.Form1.resources
+C:\Users\Acer\OneDrive\Máy tính\paintdemo (1)\paintdemo\obj\Debug\net6.0-windows\paintdemo.Properties.Resources.resources
+C:\Users\Acer\OneDrive\Máy tính\paintdemo (1)\paintdemo\obj\Debug\net6.0-windows\paintdemo.csproj.GenerateResource.cache
+C:\Users\Acer\OneDrive\Máy tính\paintdemo (1)\paintdemo\obj\Debug\net6.0-windows\paintdemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\OneDrive\Máy tính\paintdemo (1)\paintdemo\obj\Debug\net6.0-windows\paintdemo.AssemblyInfoInputs.cache
+C:\Users\Acer\OneDrive\Máy tính\paintdemo (1)\paintdemo\obj\Debug\net6.0-windows\paintdemo.AssemblyInfo.cs
+C:\Users\Acer\OneDrive\Máy tính\paintdemo (1)\paintdemo\obj\Debug\net6.0-windows\paintdemo.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive\Máy tính\paintdemo (1)\paintdemo\obj\Debug\net6.0-windows\paintdemo.dll
+C:\Users\Acer\OneDrive\Máy tính\paintdemo (1)\paintdemo\obj\Debug\net6.0-windows\refint\paintdemo.dll
+C:\Users\Acer\OneDrive\Máy tính\paintdemo (1)\paintdemo\obj\Debug\net6.0-windows\paintdemo.pdb
+C:\Users\Acer\OneDrive\Máy tính\paintdemo (1)\paintdemo\obj\Debug\net6.0-windows\paintdemo.genruntimeconfig.cache
+C:\Users\Acer\OneDrive\Máy tính\paintdemo (1)\paintdemo\obj\Debug\net6.0-windows\ref\paintdemo.dll
+D:\Learning\C#\btapnhom\paintdemo (1)\paintdemo\bin\Debug\net6.0-windows\paintdemo.exe
+D:\Learning\C#\btapnhom\paintdemo (1)\paintdemo\bin\Debug\net6.0-windows\paintdemo.deps.json
+D:\Learning\C#\btapnhom\paintdemo (1)\paintdemo\bin\Debug\net6.0-windows\paintdemo.runtimeconfig.json
+D:\Learning\C#\btapnhom\paintdemo (1)\paintdemo\bin\Debug\net6.0-windows\paintdemo.dll
+D:\Learning\C#\btapnhom\paintdemo (1)\paintdemo\bin\Debug\net6.0-windows\paintdemo.pdb
+D:\Learning\C#\btapnhom\paintdemo (1)\paintdemo\obj\Debug\net6.0-windows\paintdemo.Form1.resources
+D:\Learning\C#\btapnhom\paintdemo (1)\paintdemo\obj\Debug\net6.0-windows\paintdemo.Properties.Resources.resources
+D:\Learning\C#\btapnhom\paintdemo (1)\paintdemo\obj\Debug\net6.0-windows\paintdemo.csproj.GenerateResource.cache
+D:\Learning\C#\btapnhom\paintdemo (1)\paintdemo\obj\Debug\net6.0-windows\paintdemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\C#\btapnhom\paintdemo (1)\paintdemo\obj\Debug\net6.0-windows\paintdemo.AssemblyInfoInputs.cache
+D:\Learning\C#\btapnhom\paintdemo (1)\paintdemo\obj\Debug\net6.0-windows\paintdemo.AssemblyInfo.cs
+D:\Learning\C#\btapnhom\paintdemo (1)\paintdemo\obj\Debug\net6.0-windows\paintdemo.csproj.CoreCompileInputs.cache
+D:\Learning\C#\btapnhom\paintdemo (1)\paintdemo\obj\Debug\net6.0-windows\paintdemo.dll
+D:\Learning\C#\btapnhom\paintdemo (1)\paintdemo\obj\Debug\net6.0-windows\refint\paintdemo.dll
+D:\Learning\C#\btapnhom\paintdemo (1)\paintdemo\obj\Debug\net6.0-windows\paintdemo.pdb
+D:\Learning\C#\btapnhom\paintdemo (1)\paintdemo\obj\Debug\net6.0-windows\paintdemo.genruntimeconfig.cache
+D:\Learning\C#\btapnhom\paintdemo (1)\paintdemo\obj\Debug\net6.0-windows\ref\paintdemo.dll

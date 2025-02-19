@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Learning\\C#\\btapnhom\\paintdemo (1)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C223CF0-6FBE-434A-A836-853FABF6D586}|paintdemo\\paintdemo.csproj|d:\\learning\\c#\\btapnhom\\paintdemo (1)\\paintdemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2C223CF0-6FBE-434A-A836-853FABF6D586}|paintdemo\\paintdemo.csproj|solutionrelative:paintdemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C223CF0-6FBE-434A-A836-853FABF6D586}|paintdemo\\paintdemo.csproj|d:\\learning\\c#\\btapnhom\\paintdemo (1)\\paintdemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C223CF0-6FBE-434A-A836-853FABF6D586}|paintdemo\\paintdemo.csproj|solutionrelative:paintdemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C223CF0-6FBE-434A-A836-853FABF6D586}|paintdemo\\paintdemo.csproj|d:\\learning\\c#\\btapnhom\\paintdemo (1)\\paintdemo\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C223CF0-6FBE-434A-A836-853FABF6D586}|paintdemo\\paintdemo.csproj|solutionrelative:paintdemo\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Learning\\C#\\btapnhom\\paintdemo (1)\\paintdemo\\Form1.cs",
+              "RelativeDocumentMoniker": "paintdemo\\Form1.cs",
+              "ToolTip": "D:\\Learning\\C#\\btapnhom\\paintdemo (1)\\paintdemo\\Form1.cs",
+              "RelativeToolTip": "paintdemo\\Form1.cs",
+              "ViewState": "AQIAALkAAAAAAAAAAAAAwKQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T06:34:03.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\Learning\\C#\\btapnhom\\paintdemo (1)\\paintdemo\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "paintdemo\\Form1.Designer.cs",
+              "ToolTip": "D:\\Learning\\C#\\btapnhom\\paintdemo (1)\\paintdemo\\Form1.Designer.cs",
+              "RelativeToolTip": "paintdemo\\Form1.Designer.cs",
+              "ViewState": "AQIAAEQEAAAAAAAAAAAAAAIAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T06:34:03.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Learning\\C#\\btapnhom\\paintdemo (1)\\paintdemo\\Form1.cs",
+              "RelativeDocumentMoniker": "paintdemo\\Form1.cs",
+              "ToolTip": "D:\\Learning\\C#\\btapnhom\\paintdemo (1)\\paintdemo\\Form1.cs [Design]",
+              "RelativeToolTip": "paintdemo\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T06:34:05.395Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
